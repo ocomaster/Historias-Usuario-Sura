@@ -385,3 +385,19 @@ style="border-bottom-right-radius: ${borderRadius}px; border-bottom-left-radius:
 Revisar Sombreados
  box-shadow
  0px 8px 25px 0px rgba(83, 89, 144, 0.25)
+
+<#--  Esponer el tamaño del border y color   -->
+border-radius: ${borderRadius}px; box-shadow: 0 0 0 ${borderWidthValue}px
+
+style="color: var(--primary-color-1); "
+
+color: var(-${selectColorBorderValue}) ; 
+
+
+//Tipo de sombra 4
+  box-shadow: 0px 16px 20px 0px rgba(0, 0, 0, 0.1);
+
+          <div class="s-c-banner-overflowed-content d-flex " style="min-height: 0px; max-height: 300px;">
+
+
+

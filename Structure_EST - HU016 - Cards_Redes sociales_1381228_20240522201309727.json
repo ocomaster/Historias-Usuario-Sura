@@ -1,0 +1,2159 @@
+{
+    "availableLanguageIds": [
+        "es_CO"
+    ],
+    "contentType": "journal",
+    "dataDefinitionFields": [
+        {
+            "customProperties": {
+                "labelAtStructureLevel": true,
+                "fieldNamespace": "",
+                "visibilityExpression": "",
+                "ddmDataProviderInstanceOutput": [],
+                "alphabeticalOrder": false,
+                "ddmDataProviderInstanceId": [],
+                "dataType": "string",
+                "options": {
+                    "es_CO": [
+                        {
+                            "reference": "primary1",
+                            "label": "Azul cielo latino",
+                            "value": "Opción27276130"
+                        },
+                        {
+                            "reference": "primary2",
+                            "label": "Blanco todo puede pasar",
+                            "value": "Opción53338547"
+                        },
+                        {
+                            "reference": "secondary1",
+                            "label": "Azul profundo",
+                            "value": "Opción51374519"
+                        },
+                        {
+                            "reference": "secondary2",
+                            "label": "Amarillo sol",
+                            "value": "Opción02486301"
+                        },
+                        {
+                            "reference": "secondary3",
+                            "label": "Aqua inesperado",
+                            "value": "Opción08215615"
+                        },
+                        {
+                            "reference": "secondary4",
+                            "label": "Azul cielo latino",
+                            "value": "Opción05490882"
+                        },
+                        {
+                            "reference": "secondary5",
+                            "label": "Gris",
+                            "value": "Opción86974199"
+                        },
+                        {
+                            "reference": "pantone1",
+                            "label": "Pantone 2114 C",
+                            "value": "Opción48494965"
+                        },
+                        {
+                            "reference": "pantone2",
+                            "label": "Pantone 461 C",
+                            "value": "Opción33796446"
+                        },
+                        {
+                            "reference": "pantone3",
+                            "label": "Pantone 304 C",
+                            "value": "Opción61457375"
+                        },
+                        {
+                            "reference": "pantone4",
+                            "label": "Pantone 284 C",
+                            "value": "Opción94701558"
+                        },
+                        {
+                            "reference": "pantone5",
+                            "label": "Pantone 429 C",
+                            "value": "Opción38882185"
+                        },
+                        {
+                            "reference": "light1",
+                            "label": "Fondo 1",
+                            "value": "Opción12417070"
+                        },
+                        {
+                            "reference": "light2",
+                            "label": "Fondo 2",
+                            "value": "Opción56924901"
+                        },
+                        {
+                            "reference": "light3",
+                            "label": "Fondo 3",
+                            "value": "Opción17579851"
+                        },
+                        {
+                            "reference": "light4",
+                            "label": "Fondo 4",
+                            "value": "Opción83735358"
+                        },
+                        {
+                            "reference": "light5",
+                            "label": "Fondo 5",
+                            "value": "Opción83277197"
+                        },
+                        {
+                            "reference": "success1",
+                            "label": "Éxito 1",
+                            "value": "Opción63078231"
+                        },
+                        {
+                            "reference": "warning1",
+                            "label": "Advertencia 1",
+                            "value": "Opción98087290"
+                        },
+                        {
+                            "reference": "error1",
+                            "label": "Error 1",
+                            "value": "Opción07611363"
+                        },
+                        {
+                            "reference": "info1",
+                            "label": "Información 1",
+                            "value": "Opción98448065"
+                        },
+                        {
+                            "reference": "success2",
+                            "label": "Éxito 2",
+                            "value": "Opción49715363"
+                        },
+                        {
+                            "reference": "warning2",
+                            "label": "Advertencia 2",
+                            "value": "Opción07972646"
+                        },
+                        {
+                            "reference": "error2",
+                            "label": "Error 2",
+                            "value": "Opción28184250"
+                        },
+                        {
+                            "reference": "info2",
+                            "label": "Información 2",
+                            "value": "Opción38026875"
+                        },
+                        {
+                            "reference": "gray1",
+                            "label": "Gris - 100",
+                            "value": "Opción33202043"
+                        },
+                        {
+                            "reference": "gray2",
+                            "label": "Gris - 200",
+                            "value": "Opción39910323"
+                        },
+                        {
+                            "reference": "gray3",
+                            "label": "Gris - 500",
+                            "value": "Opción62095209"
+                        },
+                        {
+                            "reference": "gray4",
+                            "label": "Negro",
+                            "value": "Opción48289472"
+                        },
+                        {
+                            "reference": "dark1",
+                            "label": "Amarillo oscuro",
+                            "value": "Opción07455124"
+                        },
+                        {
+                            "reference": "dark2",
+                            "label": "Rojo oscuro",
+                            "value": "Opción13051508"
+                        },
+                        {
+                            "reference": "dark3",
+                            "label": "Azul oscuro",
+                            "value": "Opción26447674"
+                        }
+                    ]
+                },
+                "multiple": false,
+                "nativeField": false,
+                "fieldReference": "bgCarousel",
+                "dataSourceType": [
+                    "manual"
+                ]
+            },
+            "defaultValue": {},
+            "fieldType": "select",
+            "indexType": "keyword",
+            "indexable": true,
+            "label": {
+                "es_CO": "Color de fondo del carrusel"
+            },
+            "localizable": true,
+            "name": "Campo51960913",
+            "nestedDataDefinitionFields": [],
+            "readOnly": false,
+            "repeatable": false,
+            "required": false,
+            "showLabel": true,
+            "tip": {
+                "es_CO": "Por favor seleccione color del sistema de diseño."
+            }
+        },
+        {
+            "customProperties": {
+                "labelAtStructureLevel": true,
+                "fieldNamespace": "",
+                "visibilityExpression": "",
+                "ddmDataProviderInstanceOutput": [],
+                "alphabeticalOrder": false,
+                "ddmDataProviderInstanceId": [],
+                "dataType": "string",
+                "options": {
+                    "es_CO": [
+                        {
+                            "reference": "primary1",
+                            "label": "Azul cielo latino",
+                            "value": "Opción27276130"
+                        },
+                        {
+                            "reference": "primary2",
+                            "label": "Blanco todo puede pasar",
+                            "value": "Opción53338547"
+                        },
+                        {
+                            "reference": "secondary1",
+                            "label": "Azul profundo",
+                            "value": "Opción51374519"
+                        },
+                        {
+                            "reference": "secondary2",
+                            "label": "Amarillo sol",
+                            "value": "Opción02486301"
+                        },
+                        {
+                            "reference": "secondary3",
+                            "label": "Aqua inesperado",
+                            "value": "Opción08215615"
+                        },
+                        {
+                            "reference": "secondary4",
+                            "label": "Azul cielo latino",
+                            "value": "Opción05490882"
+                        },
+                        {
+                            "reference": "secondary5",
+                            "label": "Gris",
+                            "value": "Opción86974199"
+                        },
+                        {
+                            "reference": "pantone1",
+                            "label": "Pantone 2114 C",
+                            "value": "Opción48494965"
+                        },
+                        {
+                            "reference": "pantone2",
+                            "label": "Pantone 461 C",
+                            "value": "Opción33796446"
+                        },
+                        {
+                            "reference": "pantone3",
+                            "label": "Pantone 304 C",
+                            "value": "Opción61457375"
+                        },
+                        {
+                            "reference": "pantone4",
+                            "label": "Pantone 284 C",
+                            "value": "Opción94701558"
+                        },
+                        {
+                            "reference": "pantone5",
+                            "label": "Pantone 429 C",
+                            "value": "Opción38882185"
+                        },
+                        {
+                            "reference": "light1",
+                            "label": "Fondo 1",
+                            "value": "Opción12417070"
+                        },
+                        {
+                            "reference": "light2",
+                            "label": "Fondo 2",
+                            "value": "Opción56924901"
+                        },
+                        {
+                            "reference": "light3",
+                            "label": "Fondo 3",
+                            "value": "Opción17579851"
+                        },
+                        {
+                            "reference": "light4",
+                            "label": "Fondo 4",
+                            "value": "Opción83735358"
+                        },
+                        {
+                            "reference": "light5",
+                            "label": "Fondo 5",
+                            "value": "Opción83277197"
+                        },
+                        {
+                            "reference": "success1",
+                            "label": "Éxito 1",
+                            "value": "Opción63078231"
+                        },
+                        {
+                            "reference": "warning1",
+                            "label": "Advertencia 1",
+                            "value": "Opción98087290"
+                        },
+                        {
+                            "reference": "error1",
+                            "label": "Error 1",
+                            "value": "Opción07611363"
+                        },
+                        {
+                            "reference": "info1",
+                            "label": "Información 1",
+                            "value": "Opción98448065"
+                        },
+                        {
+                            "reference": "success2",
+                            "label": "Éxito 2",
+                            "value": "Opción49715363"
+                        },
+                        {
+                            "reference": "warning2",
+                            "label": "Advertencia 2",
+                            "value": "Opción07972646"
+                        },
+                        {
+                            "reference": "error2",
+                            "label": "Error 2",
+                            "value": "Opción28184250"
+                        },
+                        {
+                            "reference": "info2",
+                            "label": "Información 2",
+                            "value": "Opción38026875"
+                        },
+                        {
+                            "reference": "gray1",
+                            "label": "Gris - 100",
+                            "value": "Opción33202043"
+                        },
+                        {
+                            "reference": "gray2",
+                            "label": "Gris - 200",
+                            "value": "Opción39910323"
+                        },
+                        {
+                            "reference": "gray3",
+                            "label": "Gris - 500",
+                            "value": "Opción62095209"
+                        },
+                        {
+                            "reference": "gray4",
+                            "label": "Negro",
+                            "value": "Opción48289472"
+                        },
+                        {
+                            "reference": "dark1",
+                            "label": "Amarillo oscuro",
+                            "value": "Opción07455124"
+                        },
+                        {
+                            "reference": "dark2",
+                            "label": "Rojo oscuro",
+                            "value": "Opción13051508"
+                        },
+                        {
+                            "reference": "dark3",
+                            "label": "Azul oscuro",
+                            "value": "Opción26447674"
+                        }
+                    ]
+                },
+                "multiple": false,
+                "nativeField": false,
+                "fieldReference": "BordeCard",
+                "dataSourceType": [
+                    "manual"
+                ]
+            },
+            "defaultValue": {},
+            "fieldType": "select",
+            "indexType": "keyword",
+            "indexable": true,
+            "label": {
+                "es_CO": "Color del borde de la card"
+            },
+            "localizable": true,
+            "name": "Campo22525444",
+            "nestedDataDefinitionFields": [],
+            "readOnly": false,
+            "repeatable": false,
+            "required": false,
+            "showLabel": true,
+            "tip": {
+                "es_CO": "Por favor seleccione color del sistema de diseño."
+            }
+        },
+        {
+            "customProperties": {
+                "normalizedStructure": false,
+                "labelAtStructureLevel": true,
+                "ddmStructureKey": "null",
+                "ddmStructureLayoutId": "",
+                "ddmStructureId": "",
+                "upgradedStructure": false,
+                "fieldReference": "card",
+                "rows": [
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Select31996085"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text92717892"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Campo23162326"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text74260927"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Campo13596535"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Fieldset40643583"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text62174125"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Campo76214836"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Fieldset88622799"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "size": 12,
+                                "fields": [
+                                    "Text08525675"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "collapsible": false
+            },
+            "defaultValue": {},
+            "fieldType": "fieldset",
+            "indexable": false,
+            "label": {
+                "es_CO": "Card"
+            },
+            "localizable": false,
+            "name": "Fieldset96387344",
+            "nestedDataDefinitionFields": [
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "alphabeticalOrder": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "options": {
+                            "es_CO": [
+                                {
+                                    "reference": "primary1",
+                                    "label": "Azul cielo latino",
+                                    "value": "Opción27276130"
+                                },
+                                {
+                                    "reference": "primary2",
+                                    "label": "Blanco todo puede pasar",
+                                    "value": "Opción53338547"
+                                },
+                                {
+                                    "reference": "secondary1",
+                                    "label": "Azul profundo",
+                                    "value": "Opción51374519"
+                                },
+                                {
+                                    "reference": "secondary2",
+                                    "label": "Amarillo sol",
+                                    "value": "Opción02486301"
+                                },
+                                {
+                                    "reference": "secondary3",
+                                    "label": "Aqua inesperado",
+                                    "value": "Opción08215615"
+                                },
+                                {
+                                    "reference": "secondary4",
+                                    "label": "Azul cielo latino",
+                                    "value": "Opción05490882"
+                                },
+                                {
+                                    "reference": "secondary5",
+                                    "label": "Gris",
+                                    "value": "Opción86974199"
+                                },
+                                {
+                                    "reference": "pantone1",
+                                    "label": "Pantone 2114 C",
+                                    "value": "Opción48494965"
+                                },
+                                {
+                                    "reference": "pantone2",
+                                    "label": "Pantone 461 C",
+                                    "value": "Opción33796446"
+                                },
+                                {
+                                    "reference": "pantone3",
+                                    "label": "Pantone 304 C",
+                                    "value": "Opción61457375"
+                                },
+                                {
+                                    "reference": "pantone4",
+                                    "label": "Pantone 284 C",
+                                    "value": "Opción94701558"
+                                },
+                                {
+                                    "reference": "pantone5",
+                                    "label": "Pantone 429 C",
+                                    "value": "Opción38882185"
+                                },
+                                {
+                                    "reference": "light1",
+                                    "label": "Fondo 1",
+                                    "value": "Opción12417070"
+                                },
+                                {
+                                    "reference": "light2",
+                                    "label": "Fondo 2",
+                                    "value": "Opción56924901"
+                                },
+                                {
+                                    "reference": "light3",
+                                    "label": "Fondo 3",
+                                    "value": "Opción17579851"
+                                },
+                                {
+                                    "reference": "light4",
+                                    "label": "Fondo 4",
+                                    "value": "Opción83735358"
+                                },
+                                {
+                                    "reference": "light5",
+                                    "label": "Fondo 5",
+                                    "value": "Opción83277197"
+                                },
+                                {
+                                    "reference": "success1",
+                                    "label": "Éxito 1",
+                                    "value": "Opción63078231"
+                                },
+                                {
+                                    "reference": "warning1",
+                                    "label": "Advertencia 1",
+                                    "value": "Opción98087290"
+                                },
+                                {
+                                    "reference": "error1",
+                                    "label": "Error 1",
+                                    "value": "Opción07611363"
+                                },
+                                {
+                                    "reference": "info1",
+                                    "label": "Información 1",
+                                    "value": "Opción98448065"
+                                },
+                                {
+                                    "reference": "success2",
+                                    "label": "Éxito 2",
+                                    "value": "Opción49715363"
+                                },
+                                {
+                                    "reference": "warning2",
+                                    "label": "Advertencia 2",
+                                    "value": "Opción07972646"
+                                },
+                                {
+                                    "reference": "error2",
+                                    "label": "Error 2",
+                                    "value": "Opción28184250"
+                                },
+                                {
+                                    "reference": "info2",
+                                    "label": "Información 2",
+                                    "value": "Opción38026875"
+                                },
+                                {
+                                    "reference": "gray1",
+                                    "label": "Gris - 100",
+                                    "value": "Opción33202043"
+                                },
+                                {
+                                    "reference": "gray2",
+                                    "label": "Gris - 200",
+                                    "value": "Opción39910323"
+                                },
+                                {
+                                    "reference": "gray3",
+                                    "label": "Gris - 500",
+                                    "value": "Opción62095209"
+                                },
+                                {
+                                    "reference": "gray4",
+                                    "label": "Negro",
+                                    "value": "Opción48289472"
+                                },
+                                {
+                                    "reference": "dark1",
+                                    "label": "Amarillo oscuro",
+                                    "value": "Opción07455124"
+                                },
+                                {
+                                    "reference": "dark2",
+                                    "label": "Rojo oscuro",
+                                    "value": "Opción13051508"
+                                },
+                                {
+                                    "reference": "dark3",
+                                    "label": "Azul oscuro",
+                                    "value": "Opción26447674"
+                                }
+                            ]
+                        },
+                        "multiple": false,
+                        "nativeField": false,
+                        "fieldReference": "bgCard",
+                        "dataSourceType": [
+                            "manual"
+                        ]
+                    },
+                    "defaultValue": {},
+                    "fieldType": "select",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "es_CO": "Fondo de la card"
+                    },
+                    "localizable": true,
+                    "name": "Select31996085",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "es_CO": "Por favor seleccione color del sistema de diseño."
+                    }
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "hideField": false,
+                        "confirmationErrorMessage": {
+                            "es_CO": ""
+                        },
+                        "autocomplete": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "tooltip": {
+                            "es_CO": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "singleline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "options": {
+                            "es_CO": [
+                                {
+                                    "reference": "Opción80840937",
+                                    "label": "Opción",
+                                    "value": "Opción80840937"
+                                }
+                            ]
+                        },
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "es_CO": ""
+                        },
+                        "fieldReference": "IconNameRedSocial",
+                        "placeholder": {
+                            "es_CO": ""
+                        },
+                        "dataSourceType": "manual",
+                        "direction": []
+                    },
+                    "defaultValue": {},
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "es_CO": "ícono"
+                    },
+                    "localizable": true,
+                    "name": "Text92717892",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": true,
+                    "showLabel": true,
+                    "tip": {
+                        "es_CO": "Ingrese el nombre del ícono de la red social"
+                    }
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "alphabeticalOrder": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "options": {
+                            "es_CO": [
+                                {
+                                    "reference": "primary1",
+                                    "label": "Azul cielo latino",
+                                    "value": "Opción27276130"
+                                },
+                                {
+                                    "reference": "primary2",
+                                    "label": "Blanco todo puede pasar",
+                                    "value": "Opción53338547"
+                                },
+                                {
+                                    "reference": "secondary1",
+                                    "label": "Azul profundo",
+                                    "value": "Opción51374519"
+                                },
+                                {
+                                    "reference": "secondary2",
+                                    "label": "Amarillo sol",
+                                    "value": "Opción02486301"
+                                },
+                                {
+                                    "reference": "secondary3",
+                                    "label": "Aqua inesperado",
+                                    "value": "Opción08215615"
+                                },
+                                {
+                                    "reference": "secondary4",
+                                    "label": "Azul cielo latino",
+                                    "value": "Opción05490882"
+                                },
+                                {
+                                    "reference": "secondary5",
+                                    "label": "Gris",
+                                    "value": "Opción86974199"
+                                },
+                                {
+                                    "reference": "pantone1",
+                                    "label": "Pantone 2114 C",
+                                    "value": "Opción48494965"
+                                },
+                                {
+                                    "reference": "pantone2",
+                                    "label": "Pantone 461 C",
+                                    "value": "Opción33796446"
+                                },
+                                {
+                                    "reference": "pantone3",
+                                    "label": "Pantone 304 C",
+                                    "value": "Opción61457375"
+                                },
+                                {
+                                    "reference": "pantone4",
+                                    "label": "Pantone 284 C",
+                                    "value": "Opción94701558"
+                                },
+                                {
+                                    "reference": "pantone5",
+                                    "label": "Pantone 429 C",
+                                    "value": "Opción38882185"
+                                },
+                                {
+                                    "reference": "light1",
+                                    "label": "Fondo 1",
+                                    "value": "Opción12417070"
+                                },
+                                {
+                                    "reference": "light2",
+                                    "label": "Fondo 2",
+                                    "value": "Opción56924901"
+                                },
+                                {
+                                    "reference": "light3",
+                                    "label": "Fondo 3",
+                                    "value": "Opción17579851"
+                                },
+                                {
+                                    "reference": "light4",
+                                    "label": "Fondo 4",
+                                    "value": "Opción83735358"
+                                },
+                                {
+                                    "reference": "light5",
+                                    "label": "Fondo 5",
+                                    "value": "Opción83277197"
+                                },
+                                {
+                                    "reference": "success1",
+                                    "label": "Éxito 1",
+                                    "value": "Opción63078231"
+                                },
+                                {
+                                    "reference": "warning1",
+                                    "label": "Advertencia 1",
+                                    "value": "Opción98087290"
+                                },
+                                {
+                                    "reference": "error1",
+                                    "label": "Error 1",
+                                    "value": "Opción07611363"
+                                },
+                                {
+                                    "reference": "info1",
+                                    "label": "Información 1",
+                                    "value": "Opción98448065"
+                                },
+                                {
+                                    "reference": "success2",
+                                    "label": "Éxito 2",
+                                    "value": "Opción49715363"
+                                },
+                                {
+                                    "reference": "warning2",
+                                    "label": "Advertencia 2",
+                                    "value": "Opción07972646"
+                                },
+                                {
+                                    "reference": "error2",
+                                    "label": "Error 2",
+                                    "value": "Opción28184250"
+                                },
+                                {
+                                    "reference": "info2",
+                                    "label": "Información 2",
+                                    "value": "Opción38026875"
+                                },
+                                {
+                                    "reference": "gray1",
+                                    "label": "Gris - 100",
+                                    "value": "Opción33202043"
+                                },
+                                {
+                                    "reference": "gray2",
+                                    "label": "Gris - 200",
+                                    "value": "Opción39910323"
+                                },
+                                {
+                                    "reference": "gray3",
+                                    "label": "Gris - 500",
+                                    "value": "Opción62095209"
+                                },
+                                {
+                                    "reference": "gray4",
+                                    "label": "Negro",
+                                    "value": "Opción48289472"
+                                },
+                                {
+                                    "reference": "dark1",
+                                    "label": "Amarillo oscuro",
+                                    "value": "Opción07455124"
+                                },
+                                {
+                                    "reference": "dark2",
+                                    "label": "Rojo oscuro",
+                                    "value": "Opción13051508"
+                                },
+                                {
+                                    "reference": "dark3",
+                                    "label": "Azul oscuro",
+                                    "value": "Opción26447674"
+                                }
+                            ]
+                        },
+                        "multiple": false,
+                        "nativeField": false,
+                        "fieldReference": "IconColor",
+                        "dataSourceType": [
+                            "manual"
+                        ]
+                    },
+                    "defaultValue": {},
+                    "fieldType": "select",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "es_CO": "Color del ícono "
+                    },
+                    "localizable": true,
+                    "name": "Campo23162326",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "es_CO": "Por favor seleccione color del sistema de diseño."
+                    }
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "hideField": false,
+                        "confirmationErrorMessage": {
+                            "es_CO": ""
+                        },
+                        "autocomplete": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "tooltip": {
+                            "es_CO": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "singleline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "options": {
+                            "es_CO": [
+                                {
+                                    "reference": "Opción75153874",
+                                    "label": "Opción",
+                                    "value": "Opción75153874"
+                                }
+                            ]
+                        },
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "es_CO": ""
+                        },
+                        "fieldReference": "title",
+                        "placeholder": {
+                            "es_CO": "Máximo 20 caracteres."
+                        },
+                        "dataSourceType": "manual",
+                        "direction": [
+                            "vertical"
+                        ]
+                    },
+                    "defaultValue": {},
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "es_CO": "Título"
+                    },
+                    "localizable": true,
+                    "name": "Text74260927",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": true,
+                    "showLabel": true,
+                    "tip": {
+                        "es_CO": "Ingrese el texto del título de la card (máximo 20 caracteres)"
+                    }
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "alphabeticalOrder": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "options": {
+                            "es_CO": [
+                                {
+                                    "reference": "primary1",
+                                    "label": "Azul cielo latino",
+                                    "value": "Opción27276130"
+                                },
+                                {
+                                    "reference": "primary2",
+                                    "label": "Blanco todo puede pasar",
+                                    "value": "Opción53338547"
+                                },
+                                {
+                                    "reference": "secondary1",
+                                    "label": "Azul profundo",
+                                    "value": "Opción51374519"
+                                },
+                                {
+                                    "reference": "secondary2",
+                                    "label": "Amarillo sol",
+                                    "value": "Opción02486301"
+                                },
+                                {
+                                    "reference": "secondary3",
+                                    "label": "Aqua inesperado",
+                                    "value": "Opción08215615"
+                                },
+                                {
+                                    "reference": "secondary4",
+                                    "label": "Azul cielo latino",
+                                    "value": "Opción05490882"
+                                },
+                                {
+                                    "reference": "secondary5",
+                                    "label": "Gris",
+                                    "value": "Opción86974199"
+                                },
+                                {
+                                    "reference": "pantone1",
+                                    "label": "Pantone 2114 C",
+                                    "value": "Opción48494965"
+                                },
+                                {
+                                    "reference": "pantone2",
+                                    "label": "Pantone 461 C",
+                                    "value": "Opción33796446"
+                                },
+                                {
+                                    "reference": "pantone3",
+                                    "label": "Pantone 304 C",
+                                    "value": "Opción61457375"
+                                },
+                                {
+                                    "reference": "pantone4",
+                                    "label": "Pantone 284 C",
+                                    "value": "Opción94701558"
+                                },
+                                {
+                                    "reference": "pantone5",
+                                    "label": "Pantone 429 C",
+                                    "value": "Opción38882185"
+                                },
+                                {
+                                    "reference": "light1",
+                                    "label": "Fondo 1",
+                                    "value": "Opción12417070"
+                                },
+                                {
+                                    "reference": "light2",
+                                    "label": "Fondo 2",
+                                    "value": "Opción56924901"
+                                },
+                                {
+                                    "reference": "light3",
+                                    "label": "Fondo 3",
+                                    "value": "Opción17579851"
+                                },
+                                {
+                                    "reference": "light4",
+                                    "label": "Fondo 4",
+                                    "value": "Opción83735358"
+                                },
+                                {
+                                    "reference": "light5",
+                                    "label": "Fondo 5",
+                                    "value": "Opción83277197"
+                                },
+                                {
+                                    "reference": "success1",
+                                    "label": "Éxito 1",
+                                    "value": "Opción63078231"
+                                },
+                                {
+                                    "reference": "warning1",
+                                    "label": "Advertencia 1",
+                                    "value": "Opción98087290"
+                                },
+                                {
+                                    "reference": "error1",
+                                    "label": "Error 1",
+                                    "value": "Opción07611363"
+                                },
+                                {
+                                    "reference": "info1",
+                                    "label": "Información 1",
+                                    "value": "Opción98448065"
+                                },
+                                {
+                                    "reference": "success2",
+                                    "label": "Éxito 2",
+                                    "value": "Opción49715363"
+                                },
+                                {
+                                    "reference": "warning2",
+                                    "label": "Advertencia 2",
+                                    "value": "Opción07972646"
+                                },
+                                {
+                                    "reference": "error2",
+                                    "label": "Error 2",
+                                    "value": "Opción28184250"
+                                },
+                                {
+                                    "reference": "info2",
+                                    "label": "Información 2",
+                                    "value": "Opción38026875"
+                                },
+                                {
+                                    "reference": "gray1",
+                                    "label": "Gris - 100",
+                                    "value": "Opción33202043"
+                                },
+                                {
+                                    "reference": "gray2",
+                                    "label": "Gris - 200",
+                                    "value": "Opción39910323"
+                                },
+                                {
+                                    "reference": "gray3",
+                                    "label": "Gris - 500",
+                                    "value": "Opción62095209"
+                                },
+                                {
+                                    "reference": "gray4",
+                                    "label": "Negro",
+                                    "value": "Opción48289472"
+                                },
+                                {
+                                    "reference": "dark1",
+                                    "label": "Amarillo oscuro",
+                                    "value": "Opción07455124"
+                                },
+                                {
+                                    "reference": "dark2",
+                                    "label": "Rojo oscuro",
+                                    "value": "Opción13051508"
+                                },
+                                {
+                                    "reference": "dark3",
+                                    "label": "Azul oscuro",
+                                    "value": "Opción26447674"
+                                }
+                            ]
+                        },
+                        "multiple": false,
+                        "nativeField": false,
+                        "fieldReference": "ColorTitle",
+                        "dataSourceType": [
+                            "manual"
+                        ]
+                    },
+                    "defaultValue": {},
+                    "fieldType": "select",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "es_CO": "Color del título"
+                    },
+                    "localizable": true,
+                    "name": "Campo13596535",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "es_CO": "Por favor seleccione color del sistema de diseño."
+                    }
+                },
+                {
+                    "customProperties": {
+                        "normalizedStructure": false,
+                        "labelAtStructureLevel": true,
+                        "ddmStructureKey": "null",
+                        "ddmStructureLayoutId": "",
+                        "ddmStructureId": "",
+                        "upgradedStructure": false,
+                        "fieldReference": "images",
+                        "rows": [
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Image16539911"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Image87094454"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "collapsible": false
+                    },
+                    "defaultValue": {},
+                    "fieldType": "fieldset",
+                    "indexable": false,
+                    "label": {
+                        "es_CO": "Imagen de la card"
+                    },
+                    "localizable": false,
+                    "name": "Fieldset40643583",
+                    "nestedDataDefinitionFields": [
+                        {
+                            "customProperties": {
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "dataType": "image",
+                                "requiredDescription": true,
+                                "fieldReference": "imageDesktop"
+                            },
+                            "defaultValue": {},
+                            "fieldType": "image",
+                            "indexType": "text",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "Imagen en desktop"
+                            },
+                            "localizable": true,
+                            "name": "Image16539911",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": true,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": ""
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "dataType": "image",
+                                "requiredDescription": true,
+                                "fieldReference": "imageMobile"
+                            },
+                            "defaultValue": {},
+                            "fieldType": "image",
+                            "indexType": "text",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "Imagen en mobile"
+                            },
+                            "localizable": true,
+                            "name": "Image87094454",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": true,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": ""
+                            }
+                        }
+                    ],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {}
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "hideField": false,
+                        "confirmationErrorMessage": {
+                            "es_CO": ""
+                        },
+                        "autocomplete": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "tooltip": {
+                            "es_CO": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "multiline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "options": {
+                            "es_CO": [
+                                {
+                                    "reference": "Opción13516485",
+                                    "label": "Opción",
+                                    "value": "Opción13516485"
+                                }
+                            ]
+                        },
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "es_CO": ""
+                        },
+                        "fieldReference": "paragraph",
+                        "placeholder": {
+                            "es_CO": "Máximo 70 caracteres."
+                        },
+                        "dataSourceType": "manual",
+                        "direction": [
+                            "vertical"
+                        ]
+                    },
+                    "defaultValue": {},
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "es_CO": "Párrafo"
+                    },
+                    "localizable": true,
+                    "name": "Text62174125",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": true,
+                    "showLabel": true,
+                    "tip": {
+                        "es_CO": "Ingresa el texto del párrafo de la card (máximo 70 caracteres)"
+                    }
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "alphabeticalOrder": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "options": {
+                            "es_CO": [
+                                {
+                                    "reference": "primary1",
+                                    "label": "Azul cielo latino",
+                                    "value": "Opción27276130"
+                                },
+                                {
+                                    "reference": "primary2",
+                                    "label": "Blanco todo puede pasar",
+                                    "value": "Opción53338547"
+                                },
+                                {
+                                    "reference": "secondary1",
+                                    "label": "Azul profundo",
+                                    "value": "Opción51374519"
+                                },
+                                {
+                                    "reference": "secondary2",
+                                    "label": "Amarillo sol",
+                                    "value": "Opción02486301"
+                                },
+                                {
+                                    "reference": "secondary3",
+                                    "label": "Aqua inesperado",
+                                    "value": "Opción08215615"
+                                },
+                                {
+                                    "reference": "secondary4",
+                                    "label": "Azul cielo latino",
+                                    "value": "Opción05490882"
+                                },
+                                {
+                                    "reference": "secondary5",
+                                    "label": "Gris",
+                                    "value": "Opción86974199"
+                                },
+                                {
+                                    "reference": "pantone1",
+                                    "label": "Pantone 2114 C",
+                                    "value": "Opción48494965"
+                                },
+                                {
+                                    "reference": "pantone2",
+                                    "label": "Pantone 461 C",
+                                    "value": "Opción33796446"
+                                },
+                                {
+                                    "reference": "pantone3",
+                                    "label": "Pantone 304 C",
+                                    "value": "Opción61457375"
+                                },
+                                {
+                                    "reference": "pantone4",
+                                    "label": "Pantone 284 C",
+                                    "value": "Opción94701558"
+                                },
+                                {
+                                    "reference": "pantone5",
+                                    "label": "Pantone 429 C",
+                                    "value": "Opción38882185"
+                                },
+                                {
+                                    "reference": "light1",
+                                    "label": "Fondo 1",
+                                    "value": "Opción12417070"
+                                },
+                                {
+                                    "reference": "light2",
+                                    "label": "Fondo 2",
+                                    "value": "Opción56924901"
+                                },
+                                {
+                                    "reference": "light3",
+                                    "label": "Fondo 3",
+                                    "value": "Opción17579851"
+                                },
+                                {
+                                    "reference": "light4",
+                                    "label": "Fondo 4",
+                                    "value": "Opción83735358"
+                                },
+                                {
+                                    "reference": "light5",
+                                    "label": "Fondo 5",
+                                    "value": "Opción83277197"
+                                },
+                                {
+                                    "reference": "success1",
+                                    "label": "Éxito 1",
+                                    "value": "Opción63078231"
+                                },
+                                {
+                                    "reference": "warning1",
+                                    "label": "Advertencia 1",
+                                    "value": "Opción98087290"
+                                },
+                                {
+                                    "reference": "error1",
+                                    "label": "Error 1",
+                                    "value": "Opción07611363"
+                                },
+                                {
+                                    "reference": "info1",
+                                    "label": "Información 1",
+                                    "value": "Opción98448065"
+                                },
+                                {
+                                    "reference": "success2",
+                                    "label": "Éxito 2",
+                                    "value": "Opción49715363"
+                                },
+                                {
+                                    "reference": "warning2",
+                                    "label": "Advertencia 2",
+                                    "value": "Opción07972646"
+                                },
+                                {
+                                    "reference": "error2",
+                                    "label": "Error 2",
+                                    "value": "Opción28184250"
+                                },
+                                {
+                                    "reference": "info2",
+                                    "label": "Información 2",
+                                    "value": "Opción38026875"
+                                },
+                                {
+                                    "reference": "gray1",
+                                    "label": "Gris - 100",
+                                    "value": "Opción33202043"
+                                },
+                                {
+                                    "reference": "gray2",
+                                    "label": "Gris - 200",
+                                    "value": "Opción39910323"
+                                },
+                                {
+                                    "reference": "gray3",
+                                    "label": "Gris - 500",
+                                    "value": "Opción62095209"
+                                },
+                                {
+                                    "reference": "gray4",
+                                    "label": "Negro",
+                                    "value": "Opción48289472"
+                                },
+                                {
+                                    "reference": "dark1",
+                                    "label": "Amarillo oscuro",
+                                    "value": "Opción07455124"
+                                },
+                                {
+                                    "reference": "dark2",
+                                    "label": "Rojo oscuro",
+                                    "value": "Opción13051508"
+                                },
+                                {
+                                    "reference": "dark3",
+                                    "label": "Azul oscuro",
+                                    "value": "Opción26447674"
+                                }
+                            ]
+                        },
+                        "multiple": false,
+                        "nativeField": false,
+                        "fieldReference": "colorParagraph",
+                        "dataSourceType": [
+                            "manual"
+                        ]
+                    },
+                    "defaultValue": {},
+                    "fieldType": "select",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "es_CO": "Color del párrafo"
+                    },
+                    "localizable": true,
+                    "name": "Campo76214836",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {
+                        "es_CO": "Por favor seleccione color del sistema de diseño."
+                    }
+                },
+                {
+                    "customProperties": {
+                        "normalizedStructure": false,
+                        "labelAtStructureLevel": true,
+                        "ddmStructureKey": "null",
+                        "ddmStructureLayoutId": "",
+                        "ddmStructureId": "",
+                        "upgradedStructure": false,
+                        "fieldReference": "sectionButton",
+                        "rows": [
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Select96667999"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 6,
+                                        "fields": [
+                                            "Select99554106"
+                                        ]
+                                    },
+                                    {
+                                        "size": 6,
+                                        "fields": [
+                                            "Select54141374"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Radio22405179"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Text42260135"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Checkbox33396571"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "columns": [
+                                    {
+                                        "size": 12,
+                                        "fields": [
+                                            "Text85467370"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "collapsible": false
+                    },
+                    "defaultValue": {},
+                    "fieldType": "fieldset",
+                    "indexable": false,
+                    "label": {
+                        "es_CO": "Botón"
+                    },
+                    "localizable": false,
+                    "name": "Fieldset88622799",
+                    "nestedDataDefinitionFields": [
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "ddmDataProviderInstanceOutput": [],
+                                "alphabeticalOrder": false,
+                                "ddmDataProviderInstanceId": [],
+                                "dataType": "string",
+                                "options": {
+                                    "es_CO": [
+                                        {
+                                            "reference": "inactive",
+                                            "label": "Inactivo",
+                                            "value": "Opción04609871"
+                                        },
+                                        {
+                                            "reference": "default",
+                                            "label": "Por defecto",
+                                            "value": "Opción46325361"
+                                        }
+                                    ]
+                                },
+                                "multiple": false,
+                                "nativeField": false,
+                                "fieldReference": "buttonState",
+                                "dataSourceType": [
+                                    "manual"
+                                ]
+                            },
+                            "defaultValue": {},
+                            "fieldType": "select",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "Estado del botón"
+                            },
+                            "localizable": true,
+                            "name": "Select96667999",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": "Seleccione el estado que desea para el botón"
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "ddmDataProviderInstanceOutput": [],
+                                "alphabeticalOrder": false,
+                                "ddmDataProviderInstanceId": [],
+                                "dataType": "string",
+                                "options": {
+                                    "es_CO": [
+                                        {
+                                            "reference": "primario",
+                                            "label": "Primario",
+                                            "value": "Opción04609871"
+                                        },
+                                        {
+                                            "reference": "primarioVerde",
+                                            "label": "Primario Verde",
+                                            "value": "Opción00079469"
+                                        },
+                                        {
+                                            "reference": "outline",
+                                            "label": "Outline",
+                                            "value": "Opción52468239"
+                                        },
+                                        {
+                                            "reference": "terciario",
+                                            "label": "Terciario",
+                                            "value": "Opción72934856"
+                                        },
+                                        {
+                                            "reference": "terciarioAlert",
+                                            "label": "Terciario Alert",
+                                            "value": "Opción50456586"
+                                        }
+                                    ]
+                                },
+                                "multiple": false,
+                                "nativeField": false,
+                                "fieldReference": "buttonType",
+                                "dataSourceType": [
+                                    "manual"
+                                ]
+                            },
+                            "defaultValue": {},
+                            "fieldType": "select",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "Tipo de botón"
+                            },
+                            "localizable": true,
+                            "name": "Select99554106",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": "Seleccione el tipo de botón que desee"
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "ddmDataProviderInstanceOutput": [],
+                                "alphabeticalOrder": false,
+                                "ddmDataProviderInstanceId": [],
+                                "dataType": "string",
+                                "options": {
+                                    "es_CO": [
+                                        {
+                                            "reference": "botonS",
+                                            "label": "S",
+                                            "value": "Opción15964341"
+                                        },
+                                        {
+                                            "reference": "botonM",
+                                            "label": "M",
+                                            "value": "Opción22689127"
+                                        },
+                                        {
+                                            "reference": "botonL",
+                                            "label": "L",
+                                            "value": "Opción82949989"
+                                        }
+                                    ]
+                                },
+                                "multiple": false,
+                                "nativeField": false,
+                                "fieldReference": "buttonSize",
+                                "dataSourceType": [
+                                    "manual"
+                                ]
+                            },
+                            "defaultValue": {},
+                            "fieldType": "select",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "Tamaño de botón"
+                            },
+                            "localizable": true,
+                            "name": "Select54141374",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": "Seleccione el tamaño del botón que desee"
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "inline": true,
+                                "dataType": "string",
+                                "options": {
+                                    "es_CO": [
+                                        {
+                                            "reference": "blank",
+                                            "label": "Nueva pestaña",
+                                            "value": "Opción75797537"
+                                        },
+                                        {
+                                            "reference": "self",
+                                            "label": "Misma pestaña",
+                                            "value": "Opción63364006"
+                                        }
+                                    ]
+                                },
+                                "nativeField": false,
+                                "fieldReference": "buttonTarget"
+                            },
+                            "defaultValue": {},
+                            "fieldType": "radio",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "Modo de apertura"
+                            },
+                            "localizable": true,
+                            "name": "Radio22405179",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": true,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": "Seleccione el modo de apertura para la acción de botón"
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "hideField": false,
+                                "confirmationErrorMessage": {
+                                    "es_CO": ""
+                                },
+                                "autocomplete": false,
+                                "ddmDataProviderInstanceId": [],
+                                "dataType": "string",
+                                "tooltip": {
+                                    "es_CO": ""
+                                },
+                                "requireConfirmation": false,
+                                "displayStyle": "singleline",
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "ddmDataProviderInstanceOutput": [],
+                                "options": {
+                                    "es_CO": [
+                                        {
+                                            "reference": "Opción36564213",
+                                            "label": "Opción",
+                                            "value": "Opción36564213"
+                                        }
+                                    ]
+                                },
+                                "nativeField": false,
+                                "confirmationLabel": {
+                                    "es_CO": ""
+                                },
+                                "fieldReference": "buttonActionUrl",
+                                "placeholder": {
+                                    "es_CO": ""
+                                },
+                                "dataSourceType": "manual",
+                                "direction": [
+                                    "vertical"
+                                ]
+                            },
+                            "defaultValue": {},
+                            "fieldType": "text",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "URL de acción del botón"
+                            },
+                            "localizable": true,
+                            "name": "Text42260135",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": true,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": "Ingrese la URL de acción del botón (Incluya la url absoluta https:// o http://)"
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "dataType": "boolean",
+                                "options": {},
+                                "fieldReference": "enableButtonRightIcon",
+                                "showAsSwitcher": true
+                            },
+                            "defaultValue": {},
+                            "fieldType": "checkbox",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "Habilitar ícono derecho del botón"
+                            },
+                            "localizable": true,
+                            "name": "Checkbox33396571",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": "Indique si desea que el botón tenga ícono a la derecha"
+                            }
+                        },
+                        {
+                            "customProperties": {
+                                "labelAtStructureLevel": true,
+                                "hideField": false,
+                                "confirmationErrorMessage": {
+                                    "es_CO": ""
+                                },
+                                "autocomplete": false,
+                                "ddmDataProviderInstanceId": [],
+                                "dataType": "string",
+                                "tooltip": {
+                                    "es_CO": ""
+                                },
+                                "requireConfirmation": false,
+                                "displayStyle": "singleline",
+                                "fieldNamespace": "",
+                                "visibilityExpression": "",
+                                "ddmDataProviderInstanceOutput": [],
+                                "options": {
+                                    "es_CO": [
+                                        {
+                                            "reference": "Opción27336577",
+                                            "label": "Opción",
+                                            "value": "Opción27336577"
+                                        }
+                                    ]
+                                },
+                                "nativeField": false,
+                                "confirmationLabel": {
+                                    "es_CO": ""
+                                },
+                                "fieldReference": "rightIconName",
+                                "placeholder": {
+                                    "es_CO": ""
+                                },
+                                "dataSourceType": "manual",
+                                "direction": [
+                                    "vertical"
+                                ]
+                            },
+                            "defaultValue": {},
+                            "fieldType": "text",
+                            "indexType": "keyword",
+                            "indexable": true,
+                            "label": {
+                                "es_CO": "Nombre ícono derecho"
+                            },
+                            "localizable": true,
+                            "name": "Text85467370",
+                            "nestedDataDefinitionFields": [],
+                            "readOnly": false,
+                            "repeatable": false,
+                            "required": false,
+                            "showLabel": true,
+                            "tip": {
+                                "es_CO": "Ingrese el nombre del ícono derecho del botón"
+                            }
+                        }
+                    ],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": false,
+                    "showLabel": true,
+                    "tip": {}
+                },
+                {
+                    "customProperties": {
+                        "labelAtStructureLevel": true,
+                        "hideField": false,
+                        "confirmationErrorMessage": {
+                            "es_CO": ""
+                        },
+                        "autocomplete": false,
+                        "ddmDataProviderInstanceId": [],
+                        "dataType": "string",
+                        "tooltip": {
+                            "es_CO": ""
+                        },
+                        "requireConfirmation": false,
+                        "displayStyle": "singleline",
+                        "fieldNamespace": "",
+                        "visibilityExpression": "",
+                        "ddmDataProviderInstanceOutput": [],
+                        "options": {
+                            "es_CO": [
+                                {
+                                    "reference": "Opción44401218",
+                                    "label": "Opción",
+                                    "value": "Opción44401218"
+                                }
+                            ]
+                        },
+                        "nativeField": false,
+                        "confirmationLabel": {
+                            "es_CO": ""
+                        },
+                        "fieldReference": "txtBtn",
+                        "placeholder": {
+                            "es_CO": ""
+                        },
+                        "dataSourceType": "manual",
+                        "direction": [
+                            "vertical"
+                        ]
+                    },
+                    "defaultValue": {},
+                    "fieldType": "text",
+                    "indexType": "keyword",
+                    "indexable": true,
+                    "label": {
+                        "es_CO": "Texto Botón"
+                    },
+                    "localizable": true,
+                    "name": "Text08525675",
+                    "nestedDataDefinitionFields": [],
+                    "readOnly": false,
+                    "repeatable": false,
+                    "required": true,
+                    "showLabel": true,
+                    "tip": {
+                        "es_CO": "Ingrese el texto del botón (Máximo 17 caracteres)"
+                    }
+                }
+            ],
+            "readOnly": false,
+            "repeatable": true,
+            "required": false,
+            "showLabel": true,
+            "tip": {}
+        }
+    ],
+    "dataDefinitionKey": "907481",
+    "defaultDataLayout": {
+        "dataLayoutFields": {},
+        "dataLayoutPages": [
+            {
+                "dataLayoutRows": [
+                    {
+                        "dataLayoutColumns": [
+                            {
+                                "columnSize": 12,
+                                "fieldNames": [
+                                    "Campo51960913"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dataLayoutColumns": [
+                            {
+                                "columnSize": 12,
+                                "fieldNames": [
+                                    "Campo22525444"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dataLayoutColumns": [
+                            {
+                                "columnSize": 12,
+                                "fieldNames": [
+                                    "Fieldset96387344"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "description": {
+                    "es_CO": ""
+                },
+                "title": {
+                    "es_CO": ""
+                }
+            }
+        ],
+        "dataRules": [],
+        "description": {},
+        "name": {
+            "es_CO": "EST - HU016 - Cards_Redes sociales"
+        },
+        "paginationMode": "single-page"
+    },
+    "defaultLanguageId": "es_CO",
+    "description": {},
+    "name": {
+        "es_CO": "EST - HU016 - Cards_Redes sociales"
+    },
+    "storageType": "default"
+}
